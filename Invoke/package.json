@@ -1,0 +1,25 @@
+{
+  "name": "genai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/huzefa125/GenAi.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/huzefa125/GenAi/issues"
+  },
+  "homepage": "https://github.com/huzefa125/GenAi#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "groq-sdk": "^0.33.0"
+  }
+}
