@@ -20,6 +20,7 @@
   "homepage": "https://github.com/huzefa125/GenAi#readme",
   "dependencies": {
     "dotenv": "^17.2.3",
-    "groq-sdk": "^0.33.0"
+    "groq-sdk": "^0.33.0",
+    "zod": "^4.1.12"
   }
 }
